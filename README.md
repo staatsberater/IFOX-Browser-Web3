@@ -2,7 +2,6 @@
 IFOX Browser - Web3
 
 https://youtu.be/dRCFWcpqifQ?si=7qtruwCMEzJsToW3
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dRCFWcpqifQ?si=7qtruwCMEzJsToW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Build using Electron framework: IFOX utilizes the Electron framework, which enables developers to build cross-platform desktop applications using JavaScript, HTML, and CSS.
 Easy customization and editing: The project created with IFOX can be easily customized and edited according to specific requirements. Users have the flexibility to modify the design, pages, menu options, icons, and code.
